@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NovelCrafter Gemini thinking Inject
 // @version      0.5
-// @description  Adds 'reasoning: {effort: high}' to specified Claude models (e.g., Sonnet 3.7, Opus-4, Sonnet-4) used via OpenRouter in NovelCrafter.
+// @description  Adds max thinking budget to specified Google models.
 // @author       original by theRealKat, modified by Vivid Nightmare
 // @match        *://app.novelcrafter.com/*
 // @grant        unsafeWindow
